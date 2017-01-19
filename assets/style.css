@@ -108,13 +108,6 @@ footer{
 	padding-bottom: 40px;
 }
 
-.contact{
-
-}
-
-.portfolio{
-
-}
 
 .line{
 	width: 100%;
@@ -169,4 +162,26 @@ hr{
 	background-color: #FF4242;
 	font-size: 14pt;
 	font-weight: 500;
+}
+
+.nameblocks{
+	display: inline-block;
+	width: 45%;
+	margin-bottom: 20px;
+	margin-right: 4%;
+	position: relative;
+}
+
+.imgblock{
+	width: 100%;
+}
+
+h2 span{
+	position: absolute;
+	background-color: #FF4242;
+	color: #FFF;
+	width: 100%;
+	font-weight: 700;
+	bottom: 40px;
+	text-align: center;
 }
