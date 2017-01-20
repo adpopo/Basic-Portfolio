@@ -93,7 +93,7 @@ footer{
 }
 
 
-.main{
+.mainpart{
 	clear: both;
 	float: left;
 	margin-top: 30px;
@@ -113,7 +113,6 @@ footer{
 	width: 100%;
 	background-color: #333;
 	height: 2px;
-	margin-top: -15px;
 	margin-bottom: 15px;
 }
 
@@ -184,4 +183,9 @@ h2 span{
 	font-weight: 700;
 	bottom: 40px;
 	text-align: center;
+}
+
+.pagename{
+	font-size: 24pt;
+	font-weight: 700;
 }
